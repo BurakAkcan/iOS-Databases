@@ -1,0 +1,44 @@
+[
+ {
+     "name" : "Colosseum",
+     "imagename":"colosseum",
+     "address":"Fransada cafe de moda nın yanında",
+     "summary":"Kolezyum ya da Flavianus Amfitiyatro, İtalya'nın başkenti Roma'da bulunan oval bir amfitiyatrodur. Usta bir komutan olan Vespasianus tarafından MS 72 yılında yapımına başlandı ve MS 80 yılında Titus döneminde tamamlandı. Daha sonraki değişiklikler Domitian hükümdarlığı zamanında yapılmıştır",
+     "lat":41.890,
+     "long":12.494
+ },
+ {
+     "name" : "St. Peters Basilica",
+     "imagename":"basilica",
+     "address":"Fransada cafe de moda nın yanında",
+     "summary":"Aziz Petrus Bazilikası veya San Pietro Bazilikası Roma'daki en büyük 4 bazilikadan ikincisidir. Vatikan'daki en göze çarpan binadır. Kubbesi ile Roma'nın silüetindeki en önemli parçalardan biridir. Hıristiyanlığın en büyük kilisesidir. 23.000 m² arazi üzerine kuruludur. 60.000 kişilik kapasitesi vardır",
+     "lat":41.902218,
+     "long":12.456796
+ },
+ {
+     "name" : "Trevi Fountain",
+     "imagename":"trevi_fountain",
+     "address":"Fransada cafe de moda nın yanında",
+     "summary":"Trevi Çeşmesi, İtalya'nın başkenti Roma'nın Trevi semtinde, İtalyan mimar Nicola Salvi tarafından tasarlanan, Giuseppe Pannini ve diğer mimarlar tarafından tamamlanan bir çeşmedir. 26.3 metre yüksekliğe ve 49.15 metre genişliğe sahip olan yapı, Roma'nın en büyük Barok çeşmesidir.",
+     "lat":41.900767,
+     "long":12.483347
+ },
+ {
+     "name" : "Pantheon",
+     "imagename":"pantheon",
+     "address":"Fransada cafe de moda nın yanında",
+     "summary":"Panteon, ilk olarak Antik Roma'nın tüm tanrıları için tapınak olarak inşa edilmiş bir yapıdır. Panteon kavramı bugün içinde meşhur kimselerin gömülü olduğu anıtlar için kullanılır. Tüm Roma yapıları içinde en iyi korunmuş olanı ve muhtemelen de dünyada döneminin en iyi korunmuş binasıdır",
+     "lat":41.899184,
+     "long":12.476892
+ },
+ {
+     "name" : "Sistine Chapel",
+     "imagename":"sistine_chapel",
+     "address":"Fransada cafe de moda nın yanında",
+     "summary":"Sistina Şapeli Vatikan'da, Papa'nın resmi ikametgâhı Apostol Sarayı'nda bulunan bir şapeldir. Esasen Cappella Magna olarak bilinen şapel, adını onu 1477 – 1480 yılları arasında restore eden Papa IV. Sixtus'tan aldı. O zamandan bu yana şapel hem dini hem sivil papalık etkinliklerine ev sahipliği yapan bir yer oldu",
+     "lat":41.902916,
+     "long":12.453389
+ }
+
+
+]
